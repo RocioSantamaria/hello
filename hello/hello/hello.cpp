@@ -6,6 +6,7 @@
 
 int main()
 {
+	tonta Hola biru
     return 0;
 }
 
